@@ -1,9 +1,9 @@
 # JavaScriptPractice
 ## About
-This is the repo for practice assignments for BCC Course. Details for each assignments can be found in `README` file of their respective folders. More Assignments will be added gradually.
+This is the repo for practice assignments for BCC Course. More Assignments will be added gradually.
 
 ## How to Use
-To get started clone the repository and open `index.html` file in any browser. Use hyperlink to navigate.
+To get started clone the repository in a folder using command `git clone https://github.com/archangel4031/JavaScriptPractice.git` and open `index.html` file in any browser. Use hyperlinks to navigate to different assignment files.
 
 ### Assignments List Quarter 1
  1. Class 3
